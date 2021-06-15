@@ -1,7 +1,7 @@
 
 ## Description
 A decentralized platformer game hosted on Protocol Labs's [IPFS/Filecoin](https://ipfs.io/ipfs/QmWmW8KhwMqXVvj6JpkaRNQu3Nrie7guC8GxvFoDCGnrES) peer-to-peer hypermedia protocol and integrated with [NEAR Protocol](https://ipfs.io/ipfs/QmWmW8KhwMqXVvj6JpkaRNQu3Nrie7guC8GxvFoDCGnrES) smart contracts.
-Originally made as an entery to [Gamedev.js](https://gamedevjs.com/jam/2021/) and later being awarded the best game in the decentralized category
+Originally made as an entry to [Gamedev.js](https://gamedevjs.com/jam/2021/) and later being awarded the best game in the decentralized category
 
 ## Links
 IPFS: 
